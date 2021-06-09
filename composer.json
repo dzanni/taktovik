@@ -1,0 +1,15 @@
+{
+    "name": "arsenal/taktovik",
+    "autoload": {
+        "psr-4": {
+            "academy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dzanni",
+            "email": "dzanni@gmail.com"
+        }
+    ],
+    "require": {}
+}
